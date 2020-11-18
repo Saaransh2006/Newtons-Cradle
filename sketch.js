@@ -115,7 +115,7 @@ function draw() {
     roof.display();
 
     //Displaying text.
-    fill("red");
+    fill("white");
     textFont("segoe script");
     textStyle(BOLD);
     textSize(20);
